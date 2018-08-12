@@ -1,0 +1,5 @@
+{
+    "extends": "rallycoding",
+    "parser": "babel-eslint",
+    "javascript.validate.enable": false
+}
